@@ -87,7 +87,8 @@ const Footer: React.FC<FooterProps> = ({ currentView = "home" }) => {
 				</div>
 
 				<div className='text-center pt-8 border-t border-slate-50 text-[10px] text-slate-300 uppercase tracking-widest font-bold'>
-					MAKSET KAHAΛA @FIGMA2HTML
+					<div>MAKSET KAHAΛA @FIGMA2HTML</div>
+					<div className='mt-3'>Abdulatif tomonidan ishlab chiqilgan</div>
 				</div>
 			</div>
 		</footer>
